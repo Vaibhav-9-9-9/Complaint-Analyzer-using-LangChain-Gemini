@@ -301,6 +301,16 @@ Validated JSON Output
 
 <hr>
 
+## 🌐 Live Demo
+
+🔗 **Live Application:** https://complaint-analyzer-using-langchain-gemini-kcnjdnfheqqfgghcmrp3.streamlit.app/
+
+Experience the Complaint Analyzer by entering a customer complaint and receiving a structured analysis including:
+- Complaint Category
+- Severity Level
+- Root Issue
+- Recommended Action
+
 <h2>🤝 Contribution</h2>
 
 <p>
